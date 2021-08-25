@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<svg height="800" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g transform="scale(2,2)">
+		<g id="background-d1da88f6">
+			<rect class="dcg-svg-background" fill="white" height="400" stroke="none" width="400" x="0" y="0"/>
+		</g>
+		<g id="background-images-d1da88f6"/>
+		<g id="graphpaper-d1da88f6">
+			<g id="grid-d1da88f6">
+				<g>
+					<path class="dcg-svg-minor-gridline" d=" M 9.5 0 L 9.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 29.5 0 L 29.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 50.5 0 L 50.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 70.5 0 L 70.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 91.5 0 L 91.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 111.5 0 L 111.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 132.5 0 L 132.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 153.5 0 L 153.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 173.5 0 L 173.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 194.5 0 L 194.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 235.5 0 L 235.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 255.5 0 L 255.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 276.5 0 L 276.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 296.5 0 L 296.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 317.5 0 L 317.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 338.5 0 L 338.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 358.5 0 L 358.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 379.5 0 L 379.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 396.5 L 400 396.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 375.5 L 400 375.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 354.5 L 400 354.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 334.5 L 400 334.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 313.5 L 400 313.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 293.5 L 400 293.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 272.5 L 400 272.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 252.5 L 400 252.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 211.5 L 400 211.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 190.5 L 400 190.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 169.5 L 400 169.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 149.5 L 400 149.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 128.5 L 400 128.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 108.5 L 400 108.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 87.5 L 400 87.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 67.5 L 400 67.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 46.5 L 400 46.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 25.5 L 400 25.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 5.5 L 400 5.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-major-gridline" d=" M 9.5 0 L 9.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 111.5 0 L 111.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 317.5 0 L 317.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 0 334.5 L 400 334.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 0 128.5 L 400 128.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 0 25.5 L 400 25.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+				</g>
+			</g>
+			<g id="axis-d1da88f6">
+				<g id="yaxis-d1da88f6">
+					<title>Y axis</title>
+					<path class="dcg-svg-axis-line" d=" M 215 0 L 215 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+				</g>
+				<g id="xaxis-d1da88f6">
+					<title>X axis</title>
+					<path class="dcg-svg-axis-line" d=" M 0 232 L 400 232" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+				</g>
+				<g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="247.86767211867365">0</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="247.86767211867365">0</text>
+					</g>
+					<g class="dcg-svg-axis-value dcg-svg-offcenter-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="9.22412109375" y="247.86767211867365">-2</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="9.22412109375" y="247.86767211867365">-2</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="110.15622812662403" y="247.86767211867365">-1</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="110.15622812662403" y="247.86767211867365">-1</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="318.04857394745545" y="247.86767211867365">1</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="318.04857394745545" y="247.86767211867365">1</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="204.04380728703975" y="338.6483176853394">-1</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="204.04380728703975" y="338.6483176853394">-1</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="133.08702655200793">1</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="133.08702655200793">1</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="30.30638098534221">2</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="206.37486197453975" y="30.30638098534221">2</text>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="expressions-d1da88f6">
+			<g id="sketch-d1da88f6">
+				<title>Expression 12</title>
+				<path d="" fill="#2d70b3" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 13.894735774195812 405.5 L 13.894735774195812 405.5 L 14.92968750000002 398.63522666684094 L 18.640625000000004 375.3331829972249 L 22.351562500000007 353.29719966124543 L 25.964843750000014 333.0299881325439 L 29.480468749999996 314.4107208857487 L 32.99609375000001 296.85165645851436 L 36.414062499999986 280.7733389320349 L 39.83203125000002 265.65113520877037 L 43.15234375 251.85501227693936 L 46.472656250000014 238.91895603956561 L 49.69531249999999 227.16617925753178 L 52.91796875000001 216.1850259839891 L 56.042968750000014 206.25556814713494 L 59.0703125 197.29491351550485 L 62.09765625000001 188.9663861233257 L 65.02734375 181.49354741488483 L 67.95703125 174.58367102777655 L 70.88671875000001 168.22247484908624 L 73.71875 162.58144446537563 L 76.55078125000001 157.4268784334309 L 79.28515625000001 152.89954702569548 L 82.01953125 148.8020706559265 L 84.75390625000001 145.12283743735736 L 87.48828124999999 141.8502354832213 L 90.22265624999999 138.97265290675176 L 92.95703125 136.47847782118214 L 95.78906250000001 134.28702966386322 L 98.62109375 132.48150718893214 L 101.35546875000001 131.0923369109604 L 103.99218750000001 130.0712486765542 L 106.62890625 129.35229871999934 L 109.16796875000001 128.93581769580635 L 111.70703125 128.78055695721974 L 114.34375 128.88584201427147 L 116.98046874999999 129.25238994201317 L 119.71484375000001 129.8973373910107 L 122.546875 130.8373328587308 L 125.57421874999999 132.13380303949384 L 128.796875 133.82776115272293 L 132.31249999999997 136.02294037658248 L 136.12109375 138.78207100441568 L 140.22265625 142.16150663726813 L 144.421875 146.0198597210415 L 148.9140625 150.54643101638715 L 153.69921875000003 155.7652895117502 L 158.97265625000003 161.9180660702563 L 164.9296875 169.2732360138253 L 172.25390625 178.7342278650411 L 186.90234375000003 198.18749709058378 L 195.59375 209.475776968501 L 202.03906250000003 217.4496301881608 L 207.5078125 223.82294843848044 L 212.39062500000003 229.12865384632667 L 216.8828125 233.6301435098705 L 221.17968750000003 237.54649463239912 L 225.28125 240.88759624858665 L 229.18750000000003 243.67244103816938 L 232.80078125 245.87356370777974 L 236.12109375000003 247.55497043438564 L 239.24609375 248.81973727031925 L 242.17578125 249.70989190109808 L 245.0078125 250.2847605707064 L 247.64453125000003 250.55612391968918 L 250.28125000000003 250.56238286789755 L 252.82031250000003 250.3081329075877 L 255.359375 249.78910041978259 L 257.8984375 248.99598827794202 L 260.4375 247.91949935552583 L 263.07421875000006 246.4917054393506 L 265.80859375 244.66652610545336 L 268.64062500000006 242.39413772399388 L 271.47265625 239.72027040191645 L 274.20703125 236.74555326896095 L 276.94140625 233.37292953160681 L 279.67578125000006 229.59078730308744 L 282.41015625000006 225.38751469663623 L 285.14453125 220.75149982548655 L 287.87890625 215.67113080287163 L 290.7109375 209.9284907140535 L 293.54296875000006 203.68383301523926 L 296.375 196.92425672673 L 299.3046875 189.37600116903602 L 302.234375 181.24861496994404 L 305.26171875 172.22673611895667 L 308.28906250000006 162.55546585564827 L 311.4140625 151.87436078374972 L 314.5390625 140.46716760543706 L 317.76171875 127.92467836052168 L 320.984375 114.57256849276718 L 324.3046875 99.94897282892862 L 327.62500000000006 84.42497560912159 L 331.04296875000006 67.48194597931172 L 334.4609375 49.54006015411437 L 337.97656250000006 30.019590964773272 L 341.58984375000006 8.804740124252021 L 343.8963403575877 -5.5" fill="none" paint-order="fill stroke markers" stroke="#2d70b3" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-d1da88f6">
+				<title>Expression 13</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 60.596960030791166 128.7790265520079 L 71.59696003079117 128.7790265520079 M 78.59696003079117 128.7790265520079 L 89.59696003079117 128.7790265520079 M 96.59696003079117 128.7790265520079 L 107.59696003079117 128.7790265520079 M 114.59696003079117 128.7790265520079 L 125.59696003079117 128.7790265520079 M 132.59696003079117 128.7790265520079 L 143.59696003079117 128.7790265520079 M 150.59696003079117 128.7790265520079 L 161.59696003079117 128.7790265520079" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-d1da88f6">
+				<title>Expression 14</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 195.7344754980739 250.59312500138955 L 206.7344754980739 250.59312500138955 M 213.7344754980739 250.59312500138955 L 224.7344754980739 250.59312500138955 M 231.7344754980739 250.59312500138955 L 242.7344754980739 250.59312500138955 M 249.7344754980739 250.59312500138955 L 260.7344754980739 250.59312500138955 M 267.7344754980739 250.59312500138955 L 278.7344754980739 250.59312500138955 M 285.7344754980739 250.59312500138955 L 296.7344754980739 250.59312500138955" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+		</g>
+		<g id="labels-d1da88f6"/>
+	</g>
+</svg>

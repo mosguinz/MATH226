@@ -1,0 +1,467 @@
+<?xml version="1.0" ?>
+<svg height="800" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g transform="scale(2,2)">
+		<g id="background-3825a857">
+			<rect class="dcg-svg-background" fill="white" height="400" stroke="none" width="400" x="0" y="0"/>
+		</g>
+		<g id="background-images-3825a857"/>
+		<g id="graphpaper-3825a857">
+			<g id="grid-3825a857">
+				<g>
+					<path class="dcg-svg-minor-gridline" d=" M 11.5 0 L 11.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 42.5 0 L 42.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 72.5 0 L 72.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 103.5 0 L 103.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 133.5 0 L 133.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 163.5 0 L 163.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 194.5 0 L 194.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 224.5 0 L 224.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 255.5 0 L 255.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 285.5 0 L 285.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 315.5 0 L 315.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 346.5 0 L 346.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 376.5 0 L 376.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 393.5 L 400 393.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 363.5 L 400 363.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 333.5 L 400 333.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 302.5 L 400 302.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 272.5 L 400 272.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 241.5 L 400 241.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 211.5 L 400 211.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 181.5 L 400 181.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 150.5 L 400 150.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 120.5 L 400 120.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 89.5 L 400 89.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 59.5 L 400 59.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-minor-gridline" d=" M 0 29.5 L 400 29.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2"/>
+					<path class="dcg-svg-major-gridline" d=" M 42.5 0 L 42.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 194.5 0 L 194.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 346.5 0 L 346.5 400" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 0 302.5 L 400 302.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+					<path class="dcg-svg-major-gridline" d=" M 0 150.5 L 400 150.5" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.2500000000000001"/>
+				</g>
+			</g>
+			<g id="axis-3825a857">
+				<g id="yaxis-3825a857">
+					<title>Y axis</title>
+					<path class="dcg-svg-axis-line" d=" M -6037 3 L -6037 397" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M -6037 398.5 L -6040.10582854123 386.9088900845312 L -6033.89417145877 386.9088900845312 L -6037 398.5 L -6040.10582854123 386.9088900845312" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M -6037 1.5 L -6033.89417145877 13.09110991546882 L -6040.10582854123 13.09110991546882 L -6037 1.5 L -6033.89417145877 13.09110991546882" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g id="xaxis-3825a857">
+					<title>X axis</title>
+					<path class="dcg-svg-axis-line" d=" M 3 1671 L 397 1671" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 1.5 1671 L 13.09110991546882 1667.8941714587697 L 13.09110991546882 1674.1058285412303 L 1.5 1671 L 13.09110991546882 1667.8941714587697" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 398.5 1671 L 386.9088900845312 1674.1058285412303 L 386.9088900845312 1667.8941714587697 L 398.5 1671 L 386.9088900845312 1674.1058285412303" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="-6045.482311916039" y="1686.8920395256248">0</text>
+						<text fill="#000000" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="-6045.482311916039" y="1686.8920395256248">0</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="42.748978007450205" y="393.808">2</text>
+						<text fill="rgb(150,150,150)" fill-opacity="1" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="42.748978007450205" y="393.808">2</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="194.73243359538083" y="393.808">2.05</text>
+						<text fill="rgb(150,150,150)" fill-opacity="1" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="194.73243359538083" y="393.808">2.05</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="346.71588918331236" y="393.808">2.1</text>
+						<text fill="rgb(150,150,150)" fill-opacity="1" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="346.71588918331236" y="393.808">2.1</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="16.6240234375" y="307.0409392342458">0.45</text>
+						<text fill="rgb(150,150,150)" fill-opacity="1" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="16.6240234375" y="307.0409392342458">0.45</text>
+					</g>
+					<g class="dcg-svg-axis-value">
+						<text fill="none" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="#ffffff" stroke-dasharray="" stroke-miterlimit="2" stroke-width="3" text-anchor="middle" text-decoration="normal" x="12.73095703125" y="155.05748364631495">0.5</text>
+						<text fill="rgb(150,150,150)" fill-opacity="1" font-family="Helvetica Neue World" font-size="14px" font-style="normal" font-weight="normal" stroke="none" text-anchor="middle" text-decoration="normal" x="12.73095703125" y="155.05748364631495">0.5</text>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="expressions-3825a857">
+			<g id="sketch-3825a857">
+				<title>Expression 1</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M -0.5 139.98655588001452 L -0.5 139.98655588001452 L 57.21484374999962 154.4817621117533 L 115.71093750000101 168.89569695707587 L 174.98828125000009 183.22521807208895 L 235.04687499999957 197.4673642088815 L 295.8867187499995 211.6193503931945 L 357.6054687500005 225.70062884837972 L 399.5 235.10509927399409" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-3825a857">
+				<title>Expression 2</title>
+				<path class="dcg-svg-point" d=" M 42.148978007450204 150.64948364631496 L 42.148978007450204 150.84948364631495 L 42.34897800745021 150.84948364631495 L 42.34897800745021 150.64948364631496" fill="none" paint-order="fill stroke markers" stroke="#2d70b3" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+			<g id="sketch-3825a857">
+				<title>Expression 3</title>
+				<path d="" fill="#388c46" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M -0.5 140.0622391444524 L -0.5 140.0622391444524 L 399.5 240.06223914445243" fill="none" paint-order="fill stroke markers" stroke="#388c46" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-3825a857">
+				<title>Expression 7</title>
+				<path class="dcg-svg-point" d=" M 346.11588918331233 223.02255773580592 L 346.11588918331233 223.2225577358059 L 346.3158891833124 223.2225577358059 L 346.3158891833124 223.02255773580592" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+			<g id="sketch-3825a857">
+				<title>Expression 8</title>
+				<path class="dcg-svg-point" d=" M 346.11588918331233 226.6412114402805 L 346.11588918331233 226.8412114402805 L 346.3158891833124 226.8412114402805 L 346.3158891833124 226.6412114402805" fill="none" paint-order="fill stroke markers" stroke="#388c46" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+		</g>
+		<g id="labels-3825a857">
+			<g transform="rotate(0,0,0) translate(42.748978007450205,151.24948364631496)">
+				<g class="dcg-svg-label">
+					<g transform="translate(8.487132679805654,-29.93004089729152)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(18.376021992549795,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">2</text>
+						</g>
+					</g>
+					<g transform="translate(27.556579243526357,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">,</text>
+						</g>
+					</g>
+					<g transform="translate(31.98713649450292,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811"> </text>
+						</g>
+					</g>
+					<g transform="translate(36.57046474157323,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">0</text>
+						</g>
+					</g>
+					<g transform="translate(45.903800618038076,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(50.6399151199912,-29.05504089729152)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">5</text>
+						</g>
+					</g>
+					<g transform="translate(59.82046474157323,-29.93004089729152)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(8.487132679805654,-29.93004089729152)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="rgb(45, 112, 179)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+					<g transform="translate(18.376021992549795,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">2</text>
+						</g>
+					</g>
+					<g transform="translate(27.556579243526357,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">,</text>
+						</g>
+					</g>
+					<g transform="translate(31.98713649450292,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811"> </text>
+						</g>
+					</g>
+					<g transform="translate(36.57046474157323,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">0</text>
+						</g>
+					</g>
+					<g transform="translate(45.903800618038076,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(50.6399151199912,-29.05504089729152)">
+						<g>
+							<text fill="rgb(45, 112, 179)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">5</text>
+						</g>
+					</g>
+					<g transform="translate(59.82046474157323,-29.93004089729152)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="rgb(45, 112, 179)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(0,0,0) translate(346.71588918331236,223.6225577358059)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-112.64644643428892,8.488556766147212)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(-102.75756093624204,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">2</text>
+						</g>
+					</g>
+					<g transform="translate(-93.42421743038267,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">.</text>
+						</g>
+					</g>
+					<g transform="translate(-88.6881181872186,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">1</text>
+						</g>
+					</g>
+					<g transform="translate(-79.50754567745298,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">,</text>
+						</g>
+					</g>
+					<g transform="translate(-75.07700368526548,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749"> </text>
+						</g>
+					</g>
+					<g transform="translate(-70.4936601794061,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">0</text>
+						</g>
+					</g>
+					<g transform="translate(-61.16031667354673,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">.</text>
+						</g>
+					</g>
+					<g transform="translate(-56.42423268917173,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">4</text>
+						</g>
+					</g>
+					<g transform="translate(-47.090889183312356,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">7</text>
+						</g>
+					</g>
+					<g transform="translate(-37.75754567745298,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">6</text>
+						</g>
+					</g>
+					<g transform="translate(-28.42423268917173,9.363556766147212)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">2</text>
+						</g>
+					</g>
+					<g transform="translate(-19.243660179406106,8.488556766147212)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(-112.64644643428892,8.488556766147212)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="rgb(199, 68, 64)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+					<g transform="translate(-102.75756093624204,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">2</text>
+						</g>
+					</g>
+					<g transform="translate(-93.42421743038267,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">.</text>
+						</g>
+					</g>
+					<g transform="translate(-88.6881181872186,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">1</text>
+						</g>
+					</g>
+					<g transform="translate(-79.50754567745298,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">,</text>
+						</g>
+					</g>
+					<g transform="translate(-75.07700368526548,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749"> </text>
+						</g>
+					</g>
+					<g transform="translate(-70.4936601794061,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">0</text>
+						</g>
+					</g>
+					<g transform="translate(-61.16031667354673,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">.</text>
+						</g>
+					</g>
+					<g transform="translate(-56.42423268917173,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">4</text>
+						</g>
+					</g>
+					<g transform="translate(-47.090889183312356,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">7</text>
+						</g>
+					</g>
+					<g transform="translate(-37.75754567745298,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">6</text>
+						</g>
+					</g>
+					<g transform="translate(-28.42423268917173,9.363556766147212)">
+						<g>
+							<text fill="rgb(199, 68, 64)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739890996093749">2</text>
+						</g>
+					</g>
+					<g transform="translate(-19.243660179406106,8.488556766147212)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="rgb(199, 68, 64)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(0,0,0) translate(346.71588918331236,227.2412114402805)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-47.41031667354673,-32.92176869125706)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(-37.521431175499856,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">2</text>
+						</g>
+					</g>
+					<g transform="translate(-28.188118187218606,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(-23.45200368526548,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">1</text>
+						</g>
+					</g>
+					<g transform="translate(-14.271431175499856,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">,</text>
+						</g>
+					</g>
+					<g transform="translate(-9.840889183312356,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811"> </text>
+						</g>
+					</g>
+					<g transform="translate(-5.257545677452981,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">0</text>
+						</g>
+					</g>
+					<g transform="translate(4.075767310828269,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(8.811881812781394,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">4</text>
+						</g>
+					</g>
+					<g transform="translate(18.14522531864077,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">7</text>
+						</g>
+					</g>
+					<g transform="translate(27.478568824500144,-32.04676869125706)">
+						<g>
+							<text fill="none" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">5</text>
+						</g>
+					</g>
+					<g transform="translate(36.659110816687644,-32.92176869125706)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="none" paint-order="fill stroke markers" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+						</g>
+					</g>
+					<g transform="translate(-47.41031667354673,-32.92176869125706)">
+						<g>
+							<path d=" M 7.751079170449266 0 L 7.751079170449264 -1.7763568394002505e-15 A 5.766046699968356 10.000447683436896 0 0 0 7.751079170449264 18.41666603088379 L 6.805825613077404 18.41666603088379 L 6.805825613077404 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 1 6.805825613077404 -1.7763568394002505e-15 Z" fill="rgb(56, 140, 70)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+					<g transform="translate(-37.521431175499856,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">2</text>
+						</g>
+					</g>
+					<g transform="translate(-28.188118187218606,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(-23.45200368526548,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">1</text>
+						</g>
+					</g>
+					<g transform="translate(-14.271431175499856,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">,</text>
+						</g>
+					</g>
+					<g transform="translate(-9.840889183312356,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811"> </text>
+						</g>
+					</g>
+					<g transform="translate(-5.257545677452981,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">0</text>
+						</g>
+					</g>
+					<g transform="translate(4.075767310828269,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">.</text>
+						</g>
+					</g>
+					<g transform="translate(8.811881812781394,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">4</text>
+						</g>
+					</g>
+					<g transform="translate(18.14522531864077,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">7</text>
+						</g>
+					</g>
+					<g transform="translate(27.478568824500144,-32.04676869125706)">
+						<g>
+							<text fill="rgb(56, 140, 70)" font-family="KaTeX_Main" font-size="17.71px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="13.739906254882811">5</text>
+						</g>
+					</g>
+					<g transform="translate(36.659110816687644,-32.92176869125706)">
+						<g>
+							<path d=" M 1.9850324704809095 0 L 1.9850324704809104 0 A 5.766046699968356 10.000447683436896 0 0 1 1.9850324704809104 18.41666603088379 L 2.930286027852771 18.41666603088379 L 2.9302860278527714 18.41666603088379 A 7.0894016802889634 10.000447683436896 0 0 0 2.9302860278527714 -1.7763568394002505e-15 Z" fill="rgb(56, 140, 70)" paint-order="stroke fill markers" stroke="none"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

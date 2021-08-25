@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<svg height="800" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g transform="scale(2,2)">
+		<g id="background-f613d127">
+			<rect class="dcg-svg-background" fill="white" height="400" stroke="none" width="400" x="0" y="0"/>
+		</g>
+		<g id="background-images-f613d127"/>
+		<g id="graphpaper-f613d127">
+			<g id="axis-f613d127">
+				<g id="yaxis-f613d127">
+					<title>Y axis</title>
+					<path class="dcg-svg-axis-line" d=" M 51 3 L 51 397" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 51 398.5 L 47.894171458769755 386.9088900845312 L 54.105828541230245 386.9088900845312 L 51 398.5 L 47.894171458769755 386.9088900845312" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 51 1.5 L 54.10582854123025 13.09110991546882 L 47.894171458769755 13.09110991546882 L 51 1.5 L 54.10582854123025 13.09110991546882" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g id="xaxis-f613d127">
+					<title>X axis</title>
+					<path class="dcg-svg-axis-line" d=" M 3 303 L 397 303" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 1.5 303 L 13.09110991546882 299.89417145876973 L 13.09110991546882 306.10582854123027 L 1.5 303 L 13.09110991546882 299.89417145876973" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 398.5 303 L 386.9088900845312 306.10582854123027 L 386.9088900845312 299.89417145876973 L 398.5 303 L 386.9088900845312 306.10582854123027" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path class="dcg-svg-tickmark" d="" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="2" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="expressions-f613d127">
+			<g id="sketch-f613d127">
+				<title>Expression 7</title>
+				<path d="" fill="#2d70b3" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 89.95404500377462 185.3692004278009 L 89.95404500377462 185.3692004278009 L 100.30498333783731 164.90997838760478 L 105.77340358979497 154.59260461761306 L 110.36297058697369 146.39247152265978 L 114.46428577594195 139.5184882470067 L 118.17499951834176 133.73455723377003 L 121.69041253745739 128.6859309591763 L 124.91287447164672 124.46217017851916 L 128.03768604419395 120.7637967092113 L 131.06484725509907 117.57683923036888 L 133.9943581043621 114.88194307791048 L 136.92386895362515 112.58533709311354 L 139.75572944124605 110.7560980040372 L 142.39228920558276 109.40700286001231 L 144.9311986082774 108.43644198432997 L 147.2748072876878 107.83030996673767 L 149.61841596709823 107.5046323047261 L 151.86437428486653 107.4567937765159 L 154.11033260263486 107.66777242787515 L 156.35629092040318 108.13686740894133 L 158.69989959981362 108.89985629329732 L 161.14115864086614 109.98869692862024 L 163.68006804356077 111.4348388986026 L 166.41427816953956 113.34298340813984 L 169.34378901880262 115.7805839657724 L 172.27329986806564 118.61139689625145 L 175.30046107897078 121.93265169904942 L 178.42527265151796 125.76224891307902 L 181.64773458570733 130.11257184242425 L 185.0654972431808 135.13864524224465 L 188.77621098558066 141.03153689073162 L 192.77987581290682 147.8386841897574 L 197.27179244844342 155.94363683409844 L 202.4472616154748 165.75928341361848 L 209.38043729206393 179.41832767735698 L 223.6373900918107 207.61272287897728 L 228.9105096204841 217.48595465326108 L 233.40242625602076 225.4399563213303 L 237.4060910833469 232.08406298926866 L 241.11680482574667 237.80340891796573 L 244.53456748322026 242.65192821249167 L 247.75702941740954 246.82054752671786 L 250.8818409899568 250.46189289625212 L 253.9090022008619 253.5906133228241 L 256.8385130501249 256.2266826225615 L 259.7680238993879 258.4623697890669 L 262.5998843870089 260.23105564497297 L 265.2364441513456 261.52258619552373 L 267.6777031923981 262.40774740952077 L 270.02131187180856 262.97309231885583 L 272.2672701895769 263.25150803927124 L 274.51322850734516 263.2712065661005 L 276.75918682511355 263.03212246281845 L 279.0051451428818 262.53504994277256 L 281.3487538222923 261.7431039964349 L 283.79001286334477 260.6244683672496 L 286.4265726276815 259.08477153330637 L 289.1607827536603 257.1317581212671 L 292.09029360292334 254.64752969075334 L 295.01980445218635 251.77184217366343 L 298.04696566309144 248.40632813535646 L 301.17177723563873 244.53357454988702 L 304.39423916982804 240.14172941217333 L 307.8120018273016 235.07523966928613 L 311.52271556970135 229.14304346507467 L 315.5263803970276 222.29922928033753 L 320.01829703256413 214.160695239121 L 325.2914165612376 204.1273181242284 L 332.5175433227531 189.85862983862708 L 334.7635016405214 185.3692004278009" fill="none" paint-order="fill stroke markers" stroke="#2d70b3" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-f613d127">
+				<title>Expression 8</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 89.95404500377462 185.3692004278009 L 100.95404500377462 185.3692004278009 M 107.95404500377462 185.3692004278009 L 118.95404500377462 185.3692004278009 M 125.95404500377462 185.3692004278009 L 136.95404500377464 185.3692004278009 M 143.95404500377464 185.3692004278009 L 154.95404500377464 185.3692004278009 M 161.95404500377464 185.3692004278009 L 172.95404500377464 185.3692004278009 M 179.95404500377464 185.3692004278009 L 190.95404500377464 185.3692004278009 M 197.95404500377464 185.3692004278009 L 208.95404500377464 185.3692004278009 M 215.95404500377464 185.3692004278009 L 226.95404500377464 185.3692004278009 M 233.95404500377464 185.3692004278009 L 244.95404500377464 185.3692004278009 M 251.95404500377464 185.3692004278009 L 262.95404500377464 185.3692004278009 M 269.95404500377464 185.3692004278009 L 280.95404500377464 185.3692004278009 M 287.95404500377464 185.3692004278009 L 298.95404500377464 185.3692004278009 M 305.95404500377464 185.3692004278009 L 316.95404500377464 185.3692004278009 M 323.95404500377464 185.3692004278009 L 334.7635016405214 185.3692004278009" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-f613d127">
+				<title>Expression 9</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 89.95404500377462 107.44393014904239 L 100.95404500377462 107.44393014904239 M 107.95404500377462 107.44393014904239 L 118.95404500377462 107.44393014904239 M 125.95404500377462 107.44393014904239 L 136.95404500377464 107.44393014904239 M 143.95404500377464 107.44393014904239 L 154.95404500377464 107.44393014904239 M 161.95404500377464 107.44393014904239 L 172.95404500377464 107.44393014904239 M 179.95404500377464 107.44393014904239 L 190.95404500377464 107.44393014904239 M 197.95404500377464 107.44393014904239 L 206.84195042191237 107.44393014904239" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-f613d127">
+				<title>Expression 10</title>
+				<path d="" fill="#c74440" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 206.84195042191237 263.2944707065594 L 217.84195042191237 263.2944707065594 M 224.84195042191237 263.2944707065594 L 235.84195042191237 263.2944707065594 M 242.84195042191237 263.2944707065594 L 253.84195042191237 263.2944707065594 M 260.8419504219124 263.2944707065594 L 271.8419504219124 263.2944707065594 M 278.8419504219124 263.2944707065594 L 289.8419504219124 263.2944707065594 M 296.8419504219124 263.2944707065594 L 307.8419504219124 263.2944707065594 M 314.8419504219124 263.2944707065594 L 323.7298558400501 263.2944707065594" fill="none" paint-order="fill stroke markers" stroke="#c74440" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-f613d127">
+				<title>a</title>
+				<path class="dcg-svg-point" d=" M 89.85404500377464 302.15710584593864 L 89.85404500377464 302.3571058459387 L 90.05404500377463 302.3571058459387 L 90.05404500377463 302.15710584593864" fill="none" paint-order="fill stroke markers" stroke="#000000" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+			<g id="sketch-f613d127">
+				<title>b</title>
+				<path class="dcg-svg-point" d=" M 334.66350164052136 302.15710584593864 L 334.66350164052136 302.3571058459387 L 334.8635016405214 302.3571058459387 L 334.8635016405214 302.15710584593864" fill="none" paint-order="fill stroke markers" stroke="#000000" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+		</g>
+		<g id="labels-f613d127">
+			<g transform="rotate(0,0,0) translate(90.45404500377464,302.75710584593867)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-4.794323629262919,-29.173762340079293)">
+						<g>
+							<text fill="none" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">a</text>
+						</g>
+					</g>
+					<g transform="translate(-4.794323629262919,-29.173762340079293)">
+						<g>
+							<text fill="rgb(0, 0, 0)" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">a</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(0,0,0) translate(335.2635016405214,302.75710584593867)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-4.798230644427633,-29.173762340079293)">
+						<g>
+							<text fill="none" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">b</text>
+						</g>
+					</g>
+					<g transform="translate(-4.798230644427633,-29.173762340079293)">
+						<g>
+							<text fill="rgb(0, 0, 0)" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">b</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

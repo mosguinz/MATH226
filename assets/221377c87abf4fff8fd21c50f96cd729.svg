@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<svg height="800" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs/>
+	<g transform="scale(2,2)">
+		<g id="background-c1f8804b">
+			<rect class="dcg-svg-background" fill="white" height="400" stroke="none" width="400" x="0" y="0"/>
+		</g>
+		<g id="background-images-c1f8804b"/>
+		<g id="graphpaper-c1f8804b">
+			<g id="axis-c1f8804b">
+				<g id="yaxis-c1f8804b">
+					<title>Y axis</title>
+					<path class="dcg-svg-axis-line" d=" M 51 3 L 51 397" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 51 398.5 L 47.894171458769755 386.9088900845312 L 54.105828541230245 386.9088900845312 L 51 398.5 L 47.894171458769755 386.9088900845312" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 51 1.5 L 54.10582854123025 13.09110991546882 L 47.894171458769755 13.09110991546882 L 51 1.5 L 54.10582854123025 13.09110991546882" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g id="xaxis-c1f8804b">
+					<title>X axis</title>
+					<path class="dcg-svg-axis-line" d=" M 3 303 L 397 303" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 1.5 303 L 13.09110991546882 299.89417145876973 L 13.09110991546882 306.10582854123027 L 1.5 303 L 13.09110991546882 299.89417145876973" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+					<g class="dcg-svg-axis-line">
+						<path class="dcg-svg-axis-line" d=" M 398.5 303 L 386.9088900845312 306.10582854123027 L 386.9088900845312 299.89417145876973 L 398.5 303 L 386.9088900845312 306.10582854123027" fill="rgb(0,0,0)" fill-opacity="0.9" paint-order="stroke fill markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						<path class="dcg-svg-tickmark" d="" fill="none" paint-order="fill stroke markers" stroke="rgb(0,0,0)" stroke-dasharray="" stroke-miterlimit="2" stroke-opacity="0.9" stroke-width="1.5"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="expressions-c1f8804b">
+			<g id="sketch-c1f8804b">
+				<title>Expression 2</title>
+				<path d="" fill="#2d70b3" fill-opacity="0.4" paint-order="stroke fill markers" stroke="none"/>
+				<g>
+					<path class="dcg-svg-curve" d=" M 128.91668014315388 107.44393014904239 L 128.91668014315388 107.44393014904239 L 133.40861301636554 107.57339688598961 L 137.90054588957716 107.96179709683122 L 142.3924787627888 108.60913078156727 L 146.9820623506355 109.53797507910764 L 151.57164593848216 110.73713319698481 L 156.25888024096386 112.24080735918454 L 161.04376525808064 114.06661874729485 L 165.9263009898324 116.23255565085395 L 170.90648743621924 118.7569734673495 L 175.9843245972411 121.65859470221909 L 181.257463187533 125.02203773788153 L 186.72590320709503 128.88695023291035 L 192.29199394129208 133.214969406556 L 197.85808467548912 137.94056648978716 L 203.42417540968614 143.06374148260386 L 208.99026614388316 148.58449438500608 L 214.5563568780802 154.50282519699377 L 220.12244761227726 160.81873391856703 L 225.68853834647427 167.5322205497257 L 231.2546290806713 174.64328509046985 L 236.91837052950336 182.2872068202846 L 242.5821119783355 190.34277893109217 L 248.34350414180255 198.9595979124179 L 254.1048963052697 208.00238448477708 L 259.9639391833718 217.6352970863685 L 265.82298206147397 227.70873922766697 L 271.77967565421113 238.40167603417828 L 277.83401996158335 249.73650109083752 L 283.88836426895557 261.54171380045057 L 284.76722070067086 263.2944707065594" fill="none" paint-order="fill stroke markers" stroke="#2d70b3" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="2.5"/>
+				</g>
+			</g>
+			<g id="sketch-c1f8804b">
+				<title>a</title>
+				<path class="dcg-svg-point" d=" M 128.8166801431539 302.15710584593864 L 128.8166801431539 302.3571058459387 L 129.01668014315388 302.3571058459387 L 129.01668014315388 302.15710584593864" fill="none" paint-order="fill stroke markers" stroke="#000000" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+			<g id="sketch-c1f8804b">
+				<title>b</title>
+				<path class="dcg-svg-point" d=" M 284.6672207006709 302.15710584593864 L 284.6672207006709 302.3571058459387 L 284.86722070067094 302.3571058459387 L 284.86722070067094 302.15710584593864" fill="none" paint-order="fill stroke markers" stroke="#000000" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="0.9" stroke-width="7.5"/>
+			</g>
+		</g>
+		<g id="labels-c1f8804b">
+			<g transform="rotate(0,0,0) translate(129.41668014315388,302.75710584593867)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-4.784737394130445,-29.173762340079293)">
+						<g>
+							<text fill="none" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">a</text>
+						</g>
+					</g>
+					<g transform="translate(-4.784737394130445,-29.173762340079293)">
+						<g>
+							<text fill="rgb(0, 0, 0)" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">a</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(0,0,0) translate(285.2672207006709,302.75710584593867)">
+				<g class="dcg-svg-label">
+					<g transform="translate(-4.788064206530294,-29.173762340079293)">
+						<g>
+							<text fill="none" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="#FFF" stroke-dasharray="" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="3" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">b</text>
+						</g>
+					</g>
+					<g transform="translate(-4.788064206530294,-29.173762340079293)">
+						<g>
+							<text fill="rgb(0, 0, 0)" font-family="Helvetica Neue World" font-size="15.4px" font-style="normal" font-weight="normal" stroke="none" text-anchor="start" text-decoration="normal" x="0" y="14.26657099609375">b</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
